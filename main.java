@@ -14,7 +14,7 @@
           /* Bagian Menu Dalam Aplikasi */
 
           System.out.println("-----------------------------");
-          System.out.println("Aplikasi Pengambilan Data");
+          System.out.println("Aplikasi Penyimpanan Data");
           System.out.println("-----------------------------");
           System.out.println("Menu:");
           System.out.println("  1. Tambah data");
@@ -24,7 +24,7 @@
           System.out.println("  5. Keluar");
           System.out.println("Pilihan Anda: ");
           System.out.println("-----------------------------");
-          System.out.println("Developed By @Itsmebroarif ");
+          System.out.println("Developed By Kelompok 3 ");
           System.out.println("-----------------------------");
 
           /* Bagian Menu Dalam Aplikasi (End) */
